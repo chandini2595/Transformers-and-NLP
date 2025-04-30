@@ -19,6 +19,4 @@ Covers all notebooks with real-time debugging, tips, and explanations.
 
 - 🎥 [Watch on YouTube](https://www.youtube.com/watch?v=INSERT_VIDEO_ID)
 
-> Embed:
-```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/INSERT_VIDEO_ID" title="Keras NLP End-to-End Walkthrough" frameborder="0" allowfullscreen></iframe>
+
