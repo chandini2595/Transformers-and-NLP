@@ -17,6 +17,6 @@ This repository showcases foundational and advanced NLP workflows using **Keras 
 📺 **Watch the Full Walkthrough**  
 Covers all notebooks with real-time debugging, tips, and explanations.
 
-- 🎥 [Watch on YouTube](https://www.youtube.com/watch?v=INSERT_VIDEO_ID)
+- 🎥 [Watch on YouTube](https://youtu.be/c4jvHoPM_XA)
 
 
