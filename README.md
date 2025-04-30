@@ -5,13 +5,12 @@ This repository showcases foundational and advanced NLP workflows using **Keras 
 ## 🔗 Colab Notebooks
 
 1. ✅ **Inference with a Pretrained Classifier**  
-   [Colab](https://colab.research.google.com/drive/1fgi97QUFduBj6c0EO4LABu9jTWI1_Wo7?usp=sharing) | [Keras Hub Guide](https://colab.research.google.com/github/keras-team/keras-io/blob/master/guides/ipynb/keras_hub/getting_started.ipynb)
+   [Colab](https://colab.research.google.com/drive/1fgi97QUFduBj6c0EO4LABu9jTWI1_Wo7?usp=sharing) 
 
 2. 🛠️ **Fine-Tuning a Pretrained Backbone**  
-   [Colab](https://colab.research.google.com/drive/1CFgUTNUKqG-qSJ4HEi1fK5bgiwssQdeA?usp=sharing) | [Hands-On BERT Fine-Tuning](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/blob/main/chapter11/Chapter%2011%20-%20Fine-Tuning%20BERT.ipynb)
-
+   [Colab](https://colab.research.google.com/drive/1CFgUTNUKqG-qSJ4HEi1fK5bgiwssQdeA?usp=sharing) 
 3. 🧱 **Build and Train a Transformer from Scratch**  
-   [Colab](https://colab.research.google.com/drive/16tjaZf7uv0Oj2AT8PgGMIo_txyIibiSu?usp=sharing) | [Keras Example](https://keras.io/examples/nlp/text_classification_with_transformer)
+   [Colab](https://colab.research.google.com/drive/16tjaZf7uv0Oj2AT8PgGMIo_txyIibiSu?usp=sharing) 
 
 ## ▶️ Unified YouTube Walkthrough
 
